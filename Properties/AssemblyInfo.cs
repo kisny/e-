@@ -1,16 +1,15 @@
 ﻿using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("娛樂写作系列")]
+[assembly: AssemblyTitle("3361632130")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("娛樂写作系列")]
-[assembly: AssemblyCopyright("&#49&#55&#49&#50&#55&#51&#55&#48&#57&#52")]
+[assembly: AssemblyProduct("3361632130")]
+[assembly: AssemblyCopyright("3361632130")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("660f8ff2-36a2-4b73-a383-0aeb2ad0b08a")]
+[assembly: Guid("df1d3689-09b9-4a20-a7d4-3254ba5a9c79")]
 
 // 程序集的版本信息由下列四个值组成: 
 //
